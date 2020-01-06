@@ -1,4 +1,4 @@
-# cookieclicker
+# cookieclicker unblocked
 
 <img src="img/perfectCookie.png" width="128">
 
